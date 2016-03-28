@@ -20,5 +20,6 @@
 - GloriolaMedium
 - GloriolaMedium2
 - GloriolaSemiBold-Regular
+
 ## 4. Praca z svg
 - Otwórz przez przeglądarkę plik svg całego szablony i tam w narzędziach developerskich można znaleźć jakie fonty zostały użyte do poszczególnych tekstów, kolory itp.
