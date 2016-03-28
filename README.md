@@ -1,8 +1,9 @@
 # ---------Góra Dobra FRONTEND---------
 
 ## 1. Przeroione concise
-- atrybuty typu `<div row>` -> `<div class="row">`
-- atrybuty typu `<div column="1">` -> `<div class="col col1">`
+- atrybuty typu `<div row>` na `<div class="row">`
+- atrybuty typu `<div column="1">` na `<div class="col col1">`
+- atrybuty typu `<div column="+1">` na `<div class="col col+1">`
 
 ## 2. Sekcje
 - każdy element `<section>` posiada na samym końcu zdefiniowaną górę
