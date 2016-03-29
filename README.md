@@ -1,6 +1,6 @@
 # ---------Góra Dobra FRONTEND---------
 
-## 1. Przeroione concise
+## 1. Przerobione Concise
 - atrybuty typu `<div row>` na `<div class="row">`
 - atrybuty typu `<div column="1">` na `<div class="col col1">`
 - atrybuty typu `<div column="+1">` na `<div class="col col+1">`
