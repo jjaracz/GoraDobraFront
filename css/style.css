@@ -156,40 +156,33 @@ section:after{
 
 .tiles-container{
   width: 100%;
+  padding: 0 1.7rem;
+  padding-top: 2rem;
+  padding-bottom: 4.2rem;
 }
 
-.tiles-container h2{
+.tiles-container h1{
   color: #FFFFFF;
   font-family: 'GloriolaMedium';
+  font-weight: lighter;
 }
 
 .tiles-container p{
   font-family: 'GloriolaMedium';
+  font-size: 1.2rem;
 }
 
 .tiles-container a{
   font-family: 'GloriolaMedium';
   color: #A4C8E6;
   font-weight: bold;
+  font-size: 1.3rem;
 }
 
 .tiles-container img{
   width: 100%;
   border: 0.5rem solid #FFFFFF;
   border-radius: 1.3rem;
-}
-
-.tile-content{
-  margin-bottom: 5rem;
-  padding: 0 1.5rem;
-}
-
-.centered{
-  left: 50%;
-  position: relative;
-  text-align: center;
-  top: 50%;
-  transform: translate(-50%, 50%); 
 }
 
 .how-and-who{
