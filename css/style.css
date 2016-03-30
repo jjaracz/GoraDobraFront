@@ -151,3 +151,51 @@ section:after{
   padding: 2rem 12rem;
   text-align: center;
 }
+
+/*------HOW-AND-WHO------*/
+
+.tiles-container{
+  width: 100%;
+}
+
+.tiles-container h2{
+  color: #FFFFFF;
+  font-family: 'GloriolaMedium';
+}
+
+.tiles-container p{
+  font-family: 'GloriolaMedium';
+}
+
+.tiles-container a{
+  font-family: 'GloriolaMedium';
+  color: #A4C8E6;
+  font-weight: bold;
+}
+
+.tiles-container img{
+  width: 100%;
+  border: 0.5rem solid #FFFFFF;
+  border-radius: 1.3rem;
+}
+
+.tile-content{
+  margin-bottom: 5rem;
+  padding: 0 1.5rem;
+}
+
+.centered{
+  left: 50%;
+  position: relative;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, 50%); 
+}
+
+.how-and-who{
+  background-color: #004F74;
+}
+
+.why-and-what{
+  background-color: #008AC3;
+}
