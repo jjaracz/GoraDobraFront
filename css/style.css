@@ -85,6 +85,7 @@ ul#nav-list li#nav-search input{
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
+  width: 10em;
 }
 
 /*---------SECTIONS---------*/
@@ -140,11 +141,23 @@ section:after{
   font-size: 10pt;
   font-family: 'GloriolaMedium';
 }
+input.graph-filter-input{
+  border-radius: 50px;
+  height: 1rem;
+  font-family: 'GloriolaMedium';
+}
+.graph-filter-input-container{
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 
 /*------VOLUNTEER-DASHBOARD------*/
 
 .volunteer-dashboard{
   width: 100%;
+  background-color: #003753;
 }
 .dashboard-container{
   padding: 2rem 12rem;
